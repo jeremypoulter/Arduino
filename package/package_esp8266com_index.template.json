@@ -16,8 +16,6 @@
           "category": "ESP8266",
           "url": "",
           "archiveFileName": "",
-          "checksum": "",
-          "size": "",
           "help": {
             "online": ""
           },
@@ -75,6 +73,9 @@
             },
             {
               "name": "4D Systems gen4 IoD Range"
+            },
+            {
+              "name": "DigiStump Oak"
             }
           ],
           "toolsDependencies": [
